@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">"A computer science student with a passion for coding and an insatiable appetite for knowledge and growth.</h3>
+<h3 align="Left">"A computer science student with a passion for coding and an insatiable appetite for knowledge and growth.</h3>
 
 <p align="left">
   <img width="100%" alt="LAST WORDS" src="https://github.com/mateuszhorczak/mateuszhorczak/blob/master/iusearchbtw.jpg" />

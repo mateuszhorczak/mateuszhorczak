@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="Left">"A computer science student with a passion for coding and an insatiable appetite for knowledge and growth.</h3>
 
-- 🔭 I’m currently working on [charities organizations support and volunteers management app](https://github.com/mateuszhorczak/charities_organizations_support_nuxt)
-
 - 🌱 I’m currently learning **vue, nuxt**
 
 <p align="left">

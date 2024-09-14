@@ -14,5 +14,7 @@
 
 <br/>
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mateuszhorczak&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mateuszhorczak&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Weekly%20Coding%20Stats&layout=compact)

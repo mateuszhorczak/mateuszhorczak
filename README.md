@@ -9,7 +9,7 @@
 
 <br/>
 
-# My Projects 🚀  
+# 🚀 My Projects:
 - [🎲 Random Question (Nuxt)](https://github.com/mateuszhorczak/random-question-nuxt)  
 - [💬 PollyVerse – Twitter Implementation](https://github.com/mateuszhorczak/PollyVerse)  
 

@@ -10,13 +10,9 @@
 <br/>
 
 # 🚀 My Projects:
-- [🎲 Random Question (Nuxt)](https://github.com/mateuszhorczak/random-question-nuxt)  
 - [💬 PollyVerse – Twitter Implementation](https://github.com/mateuszhorczak/PollyVerse)  
+- [🎲 Random Question (Nuxt)](https://github.com/mateuszhorczak/random-question-nuxt)  
 
-<br/>
-<p align="left">
-  <img width="100%" alt="LAST WORDS" src="https://github.com/mateuszhorczak/mateuszhorczak/blob/master/iusearchbtw.jpg" />
-</p>
 <br/>
 
 # 📊 Stats:

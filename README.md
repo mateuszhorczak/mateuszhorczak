@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h3 align="Left">A computer science student with a passion for coding and an insatiable appetite for knowledge and growth.</h3>
-🔭 I’m currently working on a web-based application for creating and solving quizzes.<br>
+🔭 I’m currently working on a web-based application for creating and solving quizzes [quiz-platform](https://github.com/mateuszhorczak/quiz-platform) .
+<br>
 🌱 I’m currently learning <i>vue, nuxt</i>.<br>
 ⚡ Fun fact: Your brain burns 400-500 calories a day.<br><br>
 

@@ -12,7 +12,7 @@
 # 🚀 My Projects:
 - [💬 PollyVerse – Twitter Implementation](https://github.com/mateuszhorczak/PollyVerse)  
 - [🎲 Random Question (Nuxt)](https://github.com/mateuszhorczak/random-question-nuxt)
-- [📅 Bialystok Information Service](https://github.com/mateuszhorczak/RSI-Bialystok-Information-Service)
+- [📅 Bialystok Information Service](https://github.com/mateuszhorczak/RSI-Bialystok-Information-Service-Nuxt)
 - [📌 Quiz Platform](https://github.com/mateuszhorczak/quiz-platform) - Work in Progress
 
 <br/>
